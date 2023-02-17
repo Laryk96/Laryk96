@@ -1,3 +1,4 @@
+## 🚀 About Me
 <h1 align="left"r>Hi 👋, I'm Lary Aguebor</h1>
 <h3 align="left">I'm a front-end and a future full stack developer</h3>
 
