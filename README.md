@@ -1,7 +1,7 @@
 <h1 align="left"r>Hi 👋, I'm Lary Aguebor</h1>
 <h3 align="left">I'm a front-end and a future full stack developer</h3>
 
-<img align="right" style="border-radius:5px;" alt="Coding" width="400" src="https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif"/>
+<img align="right" style="border-radius:5px" alt="Coding" width="400" src="https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif"/>
 
 
 - 🔭 I’m currently working on **a lot of individual projects**
