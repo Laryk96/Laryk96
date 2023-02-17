@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/%D0%BB%D0%B0%D1%80%D0%B8-%D0%B0%D0%B3%D1%83%D0%B5%D0%B1%D0%BE%D1%80-b8aab2244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="лари агуебор" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100005385106186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="лари агуебор" height="30" width="40" /></a>
 <a href="https://instagram.com/mr__lary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__lary" height="30" width="40" /></a>
-<a href="https://t.me/Ag_Lary/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="лари агуебор" height="30" width="40" /></a>
+<a href="https://t.me/Ag_Lary/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/63/424/png-clipart-computer-icons-scalable-graphics-telegram-logo-blue-angle.png" alt="лари агуебор" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Stack:</h3>
