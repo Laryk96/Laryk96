@@ -2,7 +2,6 @@
 <h3 align="center">I'm a front-end and a future full stack developer</h3>
 <img aling="right" alt="Coding" width="400" src="https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laryk96" alt="laryk96" /></a> </p>
 
 - 🔭 I’m currently working on **a lot of individual projects**
 
