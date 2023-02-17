@@ -14,7 +14,7 @@
 
 <h3 align="left">My Links:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/лари агуебор](https://www.linkedin.com/in/%D0%BB%D0%B0%D1%80%D0%B8-%D0%B0%D0%B3%D1%83%D0%B5%D0%B1%D0%BE%D1%80-b8aab2244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="лари агуебор" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/лари агуебор](https://www.linkedin.com/in/%D0%BB%D0%B0%D1%80%D0%B8-%D0%B0%D0%B3%D1%83%D0%B5%D0%B1%D0%BE%D1%80-b8aab2244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="лари агуебор" height="30" width="40" /></a>
 <a href="https://fb.com/лари агуебор" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="лари агуебор" height="30" width="40" /></a>
 <a href="https://instagram.com/mr__lary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__lary" height="30" width="40" /></a>
 </p>
