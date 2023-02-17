@@ -1,5 +1,5 @@
 ## 🚀 About Me
-<h1 align="left"r>Hi 👋, I'm Lary Aguebor</h1>
+<h2 align="left"r>Hi 👋, I'm Lary Aguebor</h2>
 <h3 align="left">I'm a front-end and a future full stack developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif"/>
